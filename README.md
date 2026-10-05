@@ -42,3 +42,18 @@ I also work with JavaScript, React, FastAPI, PyTorch, and scikit-learn for suppo
 **Education:** Innotech, expected graduation June 2030.
 
 I am interested in opportunities involving robot control software, embedded development, testing, calibration, and simulation.
+
+## Media & recognition / СМИ обо мне
+
+Press coverage, school publications, and official competition results featuring me or my teams. Original sources are in Russian and Kazakh.
+
+| Year | Source | Coverage |
+| --- | --- | --- |
+| 2025 | [Shoqan Ecology — official winners](https://shoqanecology.kz/ru/) | Listed with Ernur Bazarbekov for **PET Machine**, a project converting plastic bottles into 3D-printer filament. The 2025 waste-management results list a **200,000 KZT project prize**. |
+| 2023 | [Lyceum No. 92 — VEX Worlds results, 3 May](https://92.alschool.kz/main/2236-vex-robotics-world-championship-2023-lem-chempionaty.html) | Names me among the school's participants in Dallas and reports the quarterfinal appearances of **1737Y Blue Ribbon** and **1737D Dream ON**. |
+| 2023 | [Lyceum No. 92 — VEX Worlds participation, 28 April](https://92.alschool.kz/main/2220-vex-robotics-world-championship-2023-lem-chempionaty.html) | Names me among five students representing the lyceum at **VEX Robotics World Championship 2023**. |
+| 2023 | [Almaty Daryny — Kazakhstan National VEX Championship, 20 February](https://almaty.daryny.kz/news/356?lang=1) | Names me among the senior-category participants from winning Almaty teams invited to represent Kazakhstan at VEX Worlds. |
+| 2023 event | [Almaty Region Department of Education — world championship achievement](https://www.gov.kz/memleket/entities/almobl-bilim/press/news/details/555424) | Official team coverage reporting the VEX Worlds quarterfinal appearances of **1737Y Blue Ribbon** and **1737D Dream ON**. This article covers the teams rather than naming me individually. |
+| 2022 | [Nursultan Nazarbayev Foundation — “Марафон побед юных программистов”, 23 May](https://fnn.kz/ru/news/934) | Names me and Diar Zhoken as the laboratory's representatives who took **first place in mini-sumo** at the regional KazRoboSport-2022 qualifier. |
+
+Additional reference: [Lyceum No. 92 news archive](https://92.alschool.kz/main/page/314/) — an archive page, rather than a standalone article about me.
