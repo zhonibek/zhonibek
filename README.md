@@ -16,6 +16,16 @@ A VEX V5 robotics control project using C++, PROS, Eigen, and LemLib foundations
 
 Start with the [robot entry point](https://github.com/zhonibek/Nationals/blob/main/src/main.cpp), [control subsystems](https://github.com/zhonibek/Nationals/tree/main/src/subsystems), and [simulator](https://github.com/zhonibek/Nationals/tree/main/simulator). This project builds on open-source libraries; their implementations and licenses are acknowledged in the repository.
 
+### [Onshape Topology Optimizer](https://github.com/zhonibek/onshape-topology-optimization)
+
+A Python tool that topology-optimizes flat robot plates designed in Onshape. It reads the parts through the Onshape REST API, keeps solid material around every screw hole, runs a finite-element SIMP optimization, and writes the result back into the Part Studio as editable sketch and extrude features.
+
+- **Case study:** I merged my two-part VEX intake side plate and optimized it down to **40.6% of its original material** while keeping 80% of its lengthwise stiffness, with 2.7 mm minimum members and pockets sized for a ⅛" end mill.
+- **Methods:** plane-stress finite elements, density filtering with Heaviside projection, optimality-criteria updates and multiple in-plane load cases.
+- **Safety checks:** after each CAD step the tool compares the sketch regions and part volume with its prediction, and it removes its own features if anything does not match.
+
+![Optimized VEX intake side plate](https://raw.githubusercontent.com/zhonibek/onshape-topology-optimization/main/examples/intake-side/onshape-result.jpg)
+
 ### [PCMANai](https://github.com/zhonibek/AMD-software)
 
 A Python system-telemetry and AI assistant prototype with a FastAPI backend and web dashboard. It explores a contextual-bandit agent with experience replay and local Qwen explanations. It includes Windows system-changing actions and needs an isolated environment for evaluation.
@@ -37,7 +47,7 @@ Competition highlights include the **2023 Kazakhstan National VEX Championship a
 
 **C++ · Python · PROS · VEX V5 · Eigen · motor control · encoder/IMU integration · PID · trajectory tracking · odometry · sensor fusion**
 
-I also work with JavaScript, React, FastAPI, PyTorch, and scikit-learn for supporting tools and AI applications.
+I also work with JavaScript, React, FastAPI, PyTorch, and scikit-learn for supporting tools and AI applications, and with Onshape CAD and structural topology optimization for robot parts.
 
 **Education:** Innotech, expected graduation June 2030.
 
